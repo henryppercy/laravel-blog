@@ -1,6 +1,6 @@
 <?php
 
-namespace App\View\Components;
+namespace App\Providers\View\Components;
 
 use App\Models\Category;
 use Closure;
