@@ -1,8 +1,9 @@
 <?php
 
-namespace App\Http\Controllers\Http\Controllers;
+namespace App\Http\Controllers;
 
 use App\Models\User;
+use Illuminate\Http\Request;
 use Illuminate\Validation\Rule;
 
 class RegisterController extends Controller
